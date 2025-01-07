@@ -1,0 +1,7 @@
+1. Halaman Beranda (Home)
+2. Tenatang Saya (About Me)
+3. Proyek atau Karya(Projects)
+4. keahliah Kerja (Work Experience)
+5. Testimoni
+6. Contact
+7. Download Resume
